@@ -5,7 +5,7 @@
 git init
 git branch -M main
 git add .
-git commit -m "scripts"
+git commit -m "nodejs"
 git remote add originn https://github.com/Aolajre/nodejs_app.git
 git push -uf origin main
 #Output from config 
