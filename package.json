@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/Aolajre/nodejs_app"
   },
   "keywords": [
     "node",
-    "Landmark Technologies",
+    "Love",
     "express"
   ],
-  "author": "Simon Legah",
-  "license": "MyLandmarkTech"
+  "author": "Peace",
+  "license": "MyTech"
 }
